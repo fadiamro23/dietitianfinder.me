@@ -1,0 +1,195 @@
+id,name,slug,state,dietitianCount,latitude,longitude
+1,Aberdeen,aberdeen,NJ,0,40.4198,-74.2179
+2,Asbury Park,asbury-park,NJ,0,40.2204,-74.0121
+3,Atlantic City,atlantic-city,NJ,0,39.3643,-74.4229
+4,Barnegat,barnegat,NJ,0,39.7520,-74.2221
+5,Bayonne,bayonne,NJ,0,40.6687,-74.1143
+6,Belleville,belleville,NJ,0,40.7936,-74.1507
+7,Bergenfield,bergenfield,NJ,0,40.9276,-73.9977
+8,Berkeley Heights,berkeley-heights,NJ,0,40.6787,-74.4332
+9,Berkeley,berkeley,NJ,0,39.9393,-74.1768
+10,Bernards,bernards,NJ,0,40.7075,-74.5716
+11,Bloomfield,bloomfield,NJ,0,40.8068,-74.1854
+12,Branchburg,branchburg,NJ,0,40.5974,-74.7021
+13,Brick,brick,NJ,0,40.0578,-74.1371
+14,Bridgeton,bridgeton,NJ,0,39.4271,-75.2340
+15,Bridgewater,bridgewater,NJ,0,40.5934,-74.6049
+16,Burlington Township,burlington-township,NJ,0,40.0715,-74.8604
+17,Camden,camden,NJ,0,39.9259,-75.1196
+18,Carteret,carteret,NJ,0,40.5798,-74.2285
+19,Cedar Grove,cedar-grove,NJ,0,40.8529,-74.2332
+20,Cherry Hill,cherry-hill,NJ,0,39.9289,-75.0267
+21,Cinnaminson,cinnaminson,NJ,0,40.0112,-74.9735
+22,Clark,clark,NJ,0,40.6240,-74.3149
+23,Cliffside Park,cliffside-park,NJ,0,40.8215,-73.9871
+24,Clifton,clifton,NJ,0,40.8584,-74.1638
+25,Clinton Township,clinton-township,NJ,0,40.6287,-74.9096
+26,Collingswood,collingswood,NJ,0,39.9187,-75.0716
+27,Cranford,cranford,NJ,0,40.6562,-74.3032
+28,Delran,delran,NJ,0,40.0215,-74.9557
+29,Denville,denville,NJ,0,40.8879,-74.4854
+30,Deptford,deptford,NJ,0,39.8287,-75.1196
+31,Dover,dover,NJ,0,40.8840,-74.5621
+32,Dumont,dumont,NJ,0,40.9445,-73.9921
+33,East Brunswick,east-brunswick,NJ,0,40.4318,-74.4157
+34,East Orange,east-orange,NJ,0,40.7673,-74.2154
+35,East Windsor,east-windsor,NJ,0,40.2599,-74.5346
+36,Eatontown,eatontown,NJ,0,40.2932,-74.0510
+37,Edison,edison,NJ,0,40.5187,-74.4120
+38,Edgewater,edgewater,NJ,0,40.8243,-73.9743
+39,Egg Harbor,egg-harbor,NJ,0,39.3873,-74.6217
+40,Elizabeth,elizabeth,NJ,0,40.6639,-74.2107
+41,Elmwood Park,elmwood-park,NJ,0,40.9048,-74.1179
+42,Englewood,englewood,NJ,0,40.8928,-73.9729
+43,Ewing,ewing,NJ,0,40.2740,-74.7999
+44,Fair Lawn,fair-lawn,NJ,0,40.9403,-74.1318
+45,Fairview,fairview,NJ,0,40.8215,-74.0040
+46,Florence,florence,NJ,0,40.1145,-74.8135
+47,Florham Park,florham-park,NJ,0,40.7873,-74.3882
+48,Fort Lee,fort-lee,NJ,0,40.8509,-73.9712
+49,Franklin Township,franklin-township,NJ,0,40.4862,-74.5521
+50,Freehold Township,freehold-township,NJ,0,40.2599,-74.2935
+51,Galloway,galloway,NJ,0,39.4706,-74.5057
+52,Garfield,garfield,NJ,0,40.8798,-74.1085
+53,Glassboro,glassboro,NJ,0,39.7024,-75.1118
+54,Gloucester,gloucester,NJ,0,39.8829,-75.1196
+55,Hackensack,hackensack,NJ,0,40.8859,-74.0435
+56,Haddon,haddon,NJ,0,39.9076,-75.0599
+57,Hamilton Township,hamilton-township,NJ,0,40.2124,-74.6760
+58,Hammonton,hammonton,NJ,0,39.6365,-74.7568
+59,Hanover,hanover,NJ,0,40.8187,-74.3857
+60,Harrison Town,harrison-town,NJ,0,40.7440,-74.1535
+61,Harrison Township,harrison-township,NJ,0,39.7262,-75.2024
+62,Hawthorne,hawthorne,NJ,0,40.9573,-74.1532
+63,Hazlet,hazlet,NJ,0,40.4287,-74.1685
+64,Highland Park,highland-park,NJ,0,40.4962,-74.4293
+65,Hillsborough,hillsborough,NJ,0,40.4862,-74.6682
+66,Hillside,hillside,NJ,0,40.6965,-74.2293
+67,Hoboken,hoboken,NJ,0,40.7440,-74.0324
+68,Holmdel,holmdel,NJ,0,40.3765,-74.1854
+69,Hopatcong,hopatcong,NJ,0,40.9320,-74.6624
+70,Hopewell Township,hopewell-township,NJ,0,40.3187,-74.7916
+71,Howell,howell,NJ,0,40.1668,-74.2054
+72,Irvington,irvington,NJ,0,40.7240,-74.2332
+73,Jackson,jackson,NJ,0,40.0849,-74.3618
+74,Jefferson,jefferson,NJ,0,41.0034,-74.5643
+75,Jersey City,jersey-city,NJ,31,40.7282,-74.0776
+76,Kearny,kearny,NJ,0,40.7684,-74.1454
+77,Lacey,lacey,NJ,0,39.8487,-74.2746
+78,Lakewood,lakewood,NJ,0,40.0966,-74.2179
+79,Lawrence Township,lawrence-township,NJ,0,40.2915,-74.7271
+80,Linden,linden,NJ,0,40.6220,-74.2446
+81,Lindenwold,lindenwold,NJ,0,39.8184,-74.9885
+82,Little Egg Harbor,little-egg-harbor,NJ,0,39.6409,-74.2935
+83,Little Falls,little-falls,NJ,0,40.8751,-74.2249
+84,Livingston,livingston,NJ,0,40.7862,-74.3232
+85,Lodi,lodi,NJ,0,40.8776,-74.0832
+86,Long Branch,long-branch,NJ,0,40.3043,-73.9924
+87,Lower,lower,NJ,0,39.0273,-74.9246
+88,Lyndhurst,lyndhurst,NJ,0,40.8120,-74.1240
+89,Madison,madison,NJ,0,40.7598,-74.4171
+90,Mahwah,mahwah,NJ,0,41.0887,-74.1438
+91,Manalapan,manalapan,NJ,0,40.2896,-74.3429
+92,Manchester,manchester,NJ,0,39.9859,-74.3735
+93,Mantua,mantua,NJ,0,39.7898,-75.1774
+94,Maple Shade,maple-shade,NJ,0,39.9534,-74.9885
+95,Maplewood,maplewood,NJ,0,40.7312,-74.2746
+96,Marlboro,marlboro,NJ,0,40.3487,-74.2468
+97,Medford,medford,NJ,0,39.8540,-74.8238
+98,Metuchen,metuchen,NJ,0,40.5437,-74.3632
+99,Middlesex,middlesex,NJ,0,40.5737,-74.4993
+100,Middletown,middletown,NJ,0,40.3970,-74.0740
+101,Millburn,millburn,NJ,0,40.7265,-74.3149
+102,Millville,millville,NJ,0,39.4021,-75.0393
+103,Monroe Township,monroe-township,NJ,0,40.3265,-74.4432
+104,Montgomery,montgomery,NJ,0,40.4034,-74.6649
+105,Montclair,montclair,NJ,0,40.8259,-74.2090
+106,Montville,montville,NJ,0,40.9276,-74.3485
+107,Moorestown,moorestown,NJ,0,39.9687,-74.9490
+108,Morris,morris,NJ,0,40.7940,-74.4815
+109,Morristown,morristown,NJ,0,40.7968,-74.4815
+110,Mount Laurel,mount-laurel,NJ,0,39.9343,-74.8910
+111,Mount Olive,mount-olive,NJ,0,40.8501,-74.7374
+112,Neptune,neptune,NJ,0,40.2126,-74.0521
+113,New Brunswick,new-brunswick,NJ,0,40.4862,-74.4518
+114,New Milford,new-milford,NJ,0,40.9348,-74.0179
+115,New Providence,new-providence,NJ,0,40.6984,-74.4049
+116,Newark,newark,NJ,30,40.7357,-74.1724
+117,North Arlington,north-arlington,NJ,0,40.7876,-74.1240
+118,North Bergen,north-bergen,NJ,0,40.8043,-74.0121
+119,North Brunswick,north-brunswick,NJ,0,40.4537,-74.4857
+120,North Plainfield,north-plainfield,NJ,0,40.6287,-74.4404
+121,Nutley,nutley,NJ,0,40.8234,-74.1571
+122,Ocean Township,ocean-township,NJ,0,40.2599,-74.0374
+123,Old Bridge,old-bridge,NJ,0,40.4023,-74.3007
+124,Orange,orange,NJ,0,40.7701,-74.2324
+125,Palisades Park,palisades-park,NJ,0,40.8456,-73.9971
+126,Paramus,paramus,NJ,0,40.9445,-74.0718
+127,Parsippany-Troy Hills,parsippany-troy-hills,NJ,0,40.8579,-74.4265
+128,Passaic,passaic,NJ,0,40.8567,-74.1284
+129,Paterson,paterson,NJ,0,40.9168,-74.1718
+130,Pemberton Township,pemberton-township,NJ,0,39.9692,-74.6896
+131,Pennsauken,pennsauken,NJ,0,39.9573,-75.0574
+132,Perth Amboy,perth-amboy,NJ,0,40.5207,-74.2654
+133,Phillipsburg,phillipsburg,NJ,0,40.6959,-75.1790
+134,Piscataway,piscataway,NJ,0,40.5540,-74.4643
+135,Plainsboro,plainsboro,NJ,0,40.3321,-74.5846
+136,Plainfield,plainfield,NJ,0,40.6337,-74.4171
+137,Pleasant Point,pleasant-point,NJ,0,40.0593,-74.0665
+138,Pleasantville,pleasantville,NJ,0,39.3940,-74.5246
+139,Point Pleasant,point-pleasant,NJ,0,40.0593,-74.0665
+140,Princeton,princeton,NJ,0,40.3573,-74.6672
+141,Rahway,rahway,NJ,0,40.6082,-74.2776
+142,Ramsey,ramsey,NJ,0,41.0573,-74.1435
+143,Randolph,randolph,NJ,0,40.8456,-74.5746
+144,Raritan Township,raritan-township,NJ,0,40.5384,-74.8382
+145,Readington,readington,NJ,0,40.5645,-74.7374
+146,Ridgefield Park,ridgefield-park,NJ,0,40.8562,-74.0179
+147,Ridgewood,ridgewood,NJ,0,40.9815,-74.1179
+148,Robbinsville,robbinsville,NJ,0,40.2137,-74.6193
+149,Rockaway Township,rockaway-township,NJ,0,40.9623,-74.5154
+150,Roselle,roselle,NJ,0,40.6512,-74.2607
+151,Roselle Park,roselle-park,NJ,0,40.6654,-74.2674
+152,Roxbury,roxbury,NJ,0,40.8845,-74.6513
+153,Rutherford,rutherford,NJ,0,40.8201,-74.1068
+154,Saddle Brook,saddle-brook,NJ,0,40.9037,-74.0932
+155,Sayreville,sayreville,NJ,0,40.4590,-74.3604
+156,Scotch Plains,scotch-plains,NJ,0,40.6512,-74.3857
+157,Secaucus,secaucus,NJ,0,40.7795,-74.0568
+158,Somerville,somerville,NJ,0,40.5734,-74.6099
+159,South Brunswick,south-brunswick,NJ,0,40.3776,-74.5221
+160,South Orange Village,south-orange-village,NJ,0,40.7490,-74.2610
+161,South Plainfield,south-plainfield,NJ,0,40.5790,-74.4115
+162,South River,south-river,NJ,0,40.4487,-74.3829
+163,Sparta,sparta,NJ,0,41.0340,-74.6341
+164,Springfield Township,springfield-township,NJ,0,40.7004,-74.3335
+165,Stafford,stafford,NJ,0,39.7001,-74.2685
+166,Summit,summit,NJ,0,40.7146,-74.3646
+167,Teaneck,teaneck,NJ,0,40.8976,-74.0179
+168,Tenafly,tenafly,NJ,0,40.9198,-73.9496
+169,Tinton Falls,tinton-falls,NJ,0,40.2843,-74.0935
+170,Toms River,toms-river,NJ,0,39.9537,-74.1985
+171,Trenton,trenton,NJ,0,40.2206,-74.7597
+172,Union City,union-city,NJ,0,40.7795,-74.0246
+173,Union Township,union-township,NJ,0,40.6987,-74.2632
+174,Verona,verona,NJ,0,40.8329,-74.2438
+175,Vernon,vernon,NJ,0,41.1956,-74.4935
+176,Vineland,vineland,NJ,0,39.4863,-75.0296
+177,Voorhees,voorhees,NJ,0,39.8526,-74.9613
+178,Wall,wall,NJ,0,40.1579,-74.0596
+179,Warren,warren,NJ,0,40.6342,-74.5135
+180,Washington Township,washington-township,NJ,0,39.7418,-75.0696
+181,Wayne,wayne,NJ,0,40.9254,-74.2765
+182,Weehawken,weehawken,NJ,0,40.7684,-74.0246
+183,West Deptford,west-deptford,NJ,0,39.8451,-75.1307
+184,West Milford,west-milford,NJ,0,41.1312,-74.3671
+185,West New York,west-new-york,NJ,0,40.7857,-74.0143
+186,West Orange,west-orange,NJ,0,40.7987,-74.2390
+187,West Windsor,west-windsor,NJ,0,40.2971,-74.6199
+188,Westfield,westfield,NJ,0,40.6590,-74.3474
+189,Willingboro,willingboro,NJ,0,40.0279,-74.8913
+190,Winslow,winslow,NJ,0,39.7065,-74.9135
+191,Woodbridge,woodbridge,NJ,0,40.5576,-74.2996
+192,Woodland Park,woodland-park,NJ,0,40.8898,-74.1968
+193,Woolwich,woolwich,NJ,0,39.7876,-75.3149
+194,Wyckoff,wyckoff,NJ,0,40.9987,-74.1682
