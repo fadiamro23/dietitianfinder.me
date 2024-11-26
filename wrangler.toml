@@ -1,0 +1,9 @@
+[build]
+command = "npm run build"
+[build.environment]
+NODE_VERSION = "20.11.1"
+
+[[build.upload]]
+type = "Pages"
+dir = ".next"
+main = ".next/server.js" 
