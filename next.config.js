@@ -9,7 +9,8 @@ const nextConfig = {
   },
   experimental: {
     outputFileTracingRoot: undefined,
-  }
+  },
+  distDir: '.next'
 }
 
 module.exports = nextConfig 
