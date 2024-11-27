@@ -1,12 +1,17 @@
+name = "dietitianfinder"
+compatibility_date = "2023-12-01"
+
 [build]
 command = "npm run build"
+pages_build_output_dir = ".next/standalone"
+
+[site]
+bucket = ".next/standalone"
+
 [build.environment]
 NODE_VERSION = "20.11.1"
 
-[pages_build_output_dir]
-value = ".next"
-
 [[build.upload]]
 type = "Pages"
-dir = ".next"
+dir = ".next/standalone"
 main = ".next/server.js" 

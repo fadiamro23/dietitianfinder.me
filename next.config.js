@@ -7,6 +7,9 @@ const nextConfig = {
       // Add your image domains here if you're using next/image
     ],
   },
+  experimental: {
+    outputFileTracingRoot: undefined,
+  }
 }
 
 module.exports = nextConfig 
